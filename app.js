@@ -1,5 +1,7 @@
 // alert("hello world");
 
+//comments added//
+
 console.log("Hello World");
 console.log(123);
 console.log(true);
